@@ -1,0 +1,147 @@
+[
+  {
+    "id": "HF-2048",
+    "title": "Sistema de emissão de notas não carrega",
+    "requester": "Mariana Costa",
+    "email": "mariana.costa@empresa.com",
+    "category": "Sistema",
+    "priority": "Alta",
+    "status": "Em andamento",
+    "createdAt": "2026-11-10T09:20:00.000Z",
+    "updatedAt": "2026-11-11T11:10:00.000Z",
+    "description": "Ao acessar a área de emissão de notas, a página permanece carregando e não apresenta mensagem de erro. O problema começou após a atualização de ontem.",
+    "assignee": "Lucas Martins",
+    "history": [
+      {
+        "label": "Chamado aberto",
+        "detail": "Solicitação registrada por Mariana Costa.",
+        "date": "2026-11-10T09:20:00.000Z"
+      },
+      {
+        "label": "Em atendimento",
+        "detail": "Lucas Martins assumiu o chamado.",
+        "date": "2026-11-10T10:05:00.000Z"
+      },
+      {
+        "label": "Prioridade atualizada",
+        "detail": "Prioridade alterada para Alta.",
+        "date": "2026-11-11T11:10:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "HF-2047",
+    "title": "Solicitação de acesso ao painel financeiro",
+    "requester": "Rafael Oliveira",
+    "email": "rafael@acme.com",
+    "category": "Acesso",
+    "priority": "Média",
+    "status": "Aberto",
+    "createdAt": "2026-11-11T08:45:00.000Z",
+    "updatedAt": "2026-11-11T08:45:00.000Z",
+    "description": "Novo colaborador precisa de acesso de leitura ao painel financeiro para acompanhar os relatórios mensais.",
+    "assignee": "Não atribuído",
+    "history": [
+      {
+        "label": "Chamado aberto",
+        "detail": "Solicitação registrada por Rafael Oliveira.",
+        "date": "2026-11-11T08:45:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "HF-2046",
+    "title": "Erro ao sincronizar cadastro de clientes",
+    "requester": "Camila Ferreira",
+    "email": "camila@nova.com",
+    "category": "Integração",
+    "priority": "Crítica",
+    "status": "Em andamento",
+    "createdAt": "2026-11-10T13:15:00.000Z",
+    "updatedAt": "2026-11-11T07:30:00.000Z",
+    "description": "A sincronização retorna uma mensagem de falha para alguns cadastros. Os registros continuam disponíveis no sistema de origem.",
+    "assignee": "Ana Souza",
+    "history": [
+      {
+        "label": "Chamado aberto",
+        "detail": "Solicitação registrada por Camila Ferreira.",
+        "date": "2026-11-10T13:15:00.000Z"
+      },
+      {
+        "label": "Em atendimento",
+        "detail": "Ana Souza iniciou a análise.",
+        "date": "2026-11-11T07:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "HF-2045",
+    "title": "Dúvida sobre exportação de relatórios",
+    "requester": "Pedro Almeida",
+    "email": "pedro@empresa.com",
+    "category": "Orientação",
+    "priority": "Baixa",
+    "status": "Resolvido",
+    "createdAt": "2026-11-09T14:00:00.000Z",
+    "updatedAt": "2026-11-10T16:40:00.000Z",
+    "description": "Usuário precisava exportar o relatório de atividades em formato CSV. Orientação enviada com sucesso.",
+    "assignee": "Lucas Martins",
+    "history": [
+      {
+        "label": "Chamado aberto",
+        "detail": "Solicitação registrada por Pedro Almeida.",
+        "date": "2026-11-09T14:00:00.000Z"
+      },
+      {
+        "label": "Chamado resolvido",
+        "detail": "Passo a passo enviado ao solicitante.",
+        "date": "2026-11-10T16:40:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "HF-2044",
+    "title": "Computador sem conexão com a rede",
+    "requester": "Bianca Lima",
+    "email": "bianca@empresa.com",
+    "category": "Infraestrutura",
+    "priority": "Alta",
+    "status": "Aberto",
+    "createdAt": "2026-11-08T10:30:00.000Z",
+    "updatedAt": "2026-11-08T10:30:00.000Z",
+    "description": "Estação de trabalho não consegue acessar os recursos internos da rede. A conexão Wi-Fi está disponível.",
+    "assignee": "Não atribuído",
+    "history": [
+      {
+        "label": "Chamado aberto",
+        "detail": "Solicitação registrada por Bianca Lima.",
+        "date": "2026-11-08T10:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "HF-2043",
+    "title": "Atualização de dados cadastrais",
+    "requester": "André Ribeiro",
+    "email": "andre@empresa.com",
+    "category": "Cadastro",
+    "priority": "Média",
+    "status": "Resolvido",
+    "createdAt": "2026-11-07T11:10:00.000Z",
+    "updatedAt": "2026-11-08T09:10:00.000Z",
+    "description": "Atualização de telefone e departamento no cadastro do colaborador.",
+    "assignee": "Ana Souza",
+    "history": [
+      {
+        "label": "Chamado aberto",
+        "detail": "Solicitação registrada por André Ribeiro.",
+        "date": "2026-11-07T11:10:00.000Z"
+      },
+      {
+        "label": "Chamado resolvido",
+        "detail": "Dados atualizados.",
+        "date": "2026-11-08T09:10:00.000Z"
+      }
+    ]
+  }
+]
