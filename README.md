@@ -2,6 +2,8 @@
 
 Aplicação front-end para registro, acompanhamento e organização de chamados técnicos. O projeto foi desenvolvido como exercício prático de jQuery e Bootstrap, com foco em arquitetura modular, manipulação do DOM, eventos, formulários, responsividade e experiência do usuário.
 
+![HelpFlow Dashboard](docs/screenshots/dashboard.png)
+
 ## Funcionalidades
 
 - Dashboard com indicadores de chamados.
